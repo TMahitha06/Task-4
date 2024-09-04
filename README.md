@@ -43,6 +43,7 @@ The objective of a Rock, Paper, Scissors game implemented in Python is to provid
 **TECHNOLOGIES USED:**
 
 A Python-based Rock,Paper,Scissors Game can be built using the following technologies:
+
 In a Rock, Paper, Scissors game implemented in Python, the primary technologies used include:
 
 1. **Python Programming Language**: For writing the game's logic and handling user interactions.
