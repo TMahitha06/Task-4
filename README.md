@@ -15,7 +15,8 @@ OVERVIEW OF PROJECT:
 
 Project: Rock,Paper,Scissors Game
 
-[![task-3 output[rock,paper,scissor.txt](https://github.com/user-attachments/files/16872629/rock.paper.scissor.txt)
+[![task-3 output[rock ,paper ,scissors](https://github.com/user-attachments/assets/443457b3-e57e-4e47-a281-2a90bf49d87f)!
+
 
 
 
